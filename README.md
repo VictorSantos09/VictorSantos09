@@ -1,10 +1,10 @@
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack ou Back-End. Tenho 18 anos, natural de SP e 
+Eu sou desenvolvedor Back-End. Tenho 18 anos, natural de SP e 
 resido atualmente em Blumenau-SC, gosto de jogar, assistir series e filmes. sair, conversar, estudar. 
 
 Durante meu dia gosto de estudar coisas relacionadas á programação, jogos ou ingês. 
-Me interesso pelo cérebro e capacidade humana.
+Me interesso pelo cérebro e capacidade humana. Gosto de conversar sobre qualquer coisa!
 
 
 

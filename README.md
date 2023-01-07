@@ -28,7 +28,7 @@ Me interesso pelo cérebro e capacidade humana. Gosto de conversar sobre qualque
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, C#, .NET, SQL Server, Clean Code, Bootstrap, Visual Studio e Visual Studio Code
+Javascript, HTML, CSS, C#, .NET, REST API, SQL Server, Clean Code, Bootstrap, Visual Studio e Visual Studio Code
 
 
 ## Aprendizados

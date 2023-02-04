@@ -28,23 +28,7 @@ Me interesso pelo cérebro e capacidade humana. Gosto de conversar sobre qualque
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, C#, .NET, REST API, SQL Server, Clean Code, Bootstrap, Visual Studio e Visual Studio Code
-
-
-## Aprendizados
-
-refatorações, melhorias de performance, acessibilidade, código limpo, herança,
-polimorfismo e divisão de responsabilidades
-
-
-Herança, multiparadigma, polimorfismo, clean code, divisão de responsabilidades, lógica
-
-public, static, private, protected
-
-Metodo com e sem retorno, fluxograma, construtores, parametros, debugging, List
-
-API, end-point, Banco de Dados, GIT, GitHub, responsividade, testes
-
+Javascript, HTML, CSS, C#, .NET, REST API, SQL Server, Clean Code, Bootstrap, Visual Studio, SOLID, DRY, DDD, Git Bash, SourceTree, GitHub, Mock
 
 <!---
 VictorSantos09/VictorSantos09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

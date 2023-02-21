@@ -3,7 +3,7 @@
 Eu sou desenvolvedor Back-End. Tenho 18 anos, natural de SP e 
 resido atualmente em Blumenau-SC, gosto de jogar, assistir series e filmes. sair, conversar, estudar. 
 
-Durante meu dia gosto de estudar coisas relacionadas á programação, jogos ou ingês. 
+Durante meu dia gosto de estudar coisas relacionadas á programação, jogos ou inglês. 
 Me interesso pelo cérebro e capacidade humana. Gosto de conversar sobre qualquer coisa!
 
 

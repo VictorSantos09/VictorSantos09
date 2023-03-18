@@ -1,6 +1,6 @@
 
 ## 🚀 Sobre mim
-Eu sou desenvolvedor Back-End. Tenho 18 anos, natural de SP e 
+Eu sou desenvolvedor Back-End, estou cursando Análise e Desenvolvimento de Sistemas. Tenho 19 anos, natural de SP e 
 resido atualmente em Blumenau-SC, gosto de jogar, assistir series e filmes. sair, conversar, estudar. 
 
 Durante meu dia gosto de estudar coisas relacionadas á programação, jogos ou inglês. 
